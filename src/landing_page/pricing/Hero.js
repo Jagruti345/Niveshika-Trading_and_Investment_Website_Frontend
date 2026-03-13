@@ -20,7 +20,7 @@ function Hero() {
             <p className='text-muted'>Flat Rs. 20 or 0.03% (whichever is lower) per executed order on intraday trades across equity, currency, and commodity trades.</p>
         </div>
         <div className="col-4 p-4 fs-5">
-            <img src="media/images/pricingEquity (1).svg" />
+            <img src="media/images/pricingEquity (1).svg" alt='Pricing Equity'/>
             <h1 className='fs-2'>Free direct MF</h1>
             <p className='text-muted'>All direct mutual fund investments are absolutely free- ₹ 0 commissions & DP charges.</p>
         </div>

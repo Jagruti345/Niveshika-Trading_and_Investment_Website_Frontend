@@ -7,8 +7,8 @@ function Footer() {
         <div className='container mt-5' >
             <div className='row mt-5'>
                 <div className='col'>
-                    <img src='media/images/logo(1).svg' style={{width:"60%"}} />
-                    <p>&copy; 2010-2025, Not Niveshika Broking Ltd. All rights reserved.</p>
+                    <img src='media/images/logo(1).svg' alt='Logo' style={{width:"60%"}} />
+                    <p>&copy; 2025-2026, Not Niveshika Broking Ltd. All rights reserved.</p>
                 </div>
                 <div className='col'>
                     <p>Company</p>

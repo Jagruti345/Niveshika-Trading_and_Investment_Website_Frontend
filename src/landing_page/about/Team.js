@@ -11,7 +11,7 @@ function Team() {
       </div>
       <div className="row text-muted" style={{lineHeight:'2.2rem'}}>
         <div className="col-6 p-3 fs-5 text-center">
-            <img src="media/images/Jagruti.jpeg" style={{"width":"18rem",Width:"70%", borderRadius:"100%"}}/>
+            <img src="media/images/Jagruti.jpeg" alt="Jagruti" style={{"width":"18rem",Width:"70%", borderRadius:"100%"}}/>
             <h4 className='mt-5'>Jagruti Patil</h4>
             <h6>Founder,CEO</h6>
         </div>

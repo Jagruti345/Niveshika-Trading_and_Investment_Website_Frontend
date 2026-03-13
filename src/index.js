@@ -24,7 +24,7 @@ root.render(
       <Navbar />
 
       <Routes>
-        <Route path="/" element={<HomePage />} />
+        <Route path="/" element={<h1>Site Working</h1>} />
         
         <Route path="/signup" element={<Signup />} />
         <Route path="/login" element={<Login />} />

@@ -21,7 +21,7 @@ function Team() {
             <p> She is a visionary leader with a passion for innovation and a commitment to providing the best possible experience for her customers.</p>
             <p>Under her leadership, Niveshika has become one of the most trusted and respected names in the Indian broking industry.
            </p>
-           <p>Connect on <a href="/" style={{textDecoration:"none"}}>HomePage</a> / <a href="" style={{textDecoration:"none"}}>TradingQnA</a> / <a href="" style={{textDecoration:"none" }}>Twitter</a></p>
+           <p>Connect on <a href="/" style={{textDecoration:"none"}}>HomePage</a> / <a href="/" style={{textDecoration:"none"}}>TradingQnA</a> / <a href="/" style={{textDecoration:"none" }}>Twitter</a></p>
         </div>
       </div>
     </div>

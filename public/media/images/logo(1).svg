@@ -1,0 +1,41 @@
+<svg width="600" height="200" viewBox="0 0 600 200" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Gradient Definitions -->
+  <defs>
+    <linearGradient id="barGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2D7FF9"/>
+      <stop offset="100%" stop-color="#1B4F9C"/>
+    </linearGradient>
+
+    <linearGradient id="arrowGradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#34C759"/>
+      <stop offset="100%" stop-color="#0A8F3C"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Bar Chart Icon -->
+  <rect x="40" y="110" width="25" height="60" rx="6" fill="url(#barGradient)" />
+  <rect x="75" y="90" width="25" height="80" rx="6" fill="url(#barGradient)" />
+  <rect x="110" y="60" width="25" height="110" rx="6" fill="url(#barGradient)" />
+  <rect x="145" y="30" width="25" height="140" rx="6" fill="url(#barGradient)" />
+
+  <!-- Upward Growth Arrow -->
+  <path d="M45 130 C90 100, 120 70, 160 40"
+        stroke="url(#arrowGradient)"
+        stroke-width="10"
+        fill="none"
+        stroke-linecap="round"/>
+
+  <polygon points="160,40 150,45 165,55"
+           fill="#0A8F3C"/>
+
+  <!-- Brand Text -->
+  <text x="210" y="115"
+        font-family="Poppins, Arial, sans-serif"
+        font-size="60"
+        font-weight="600"
+        fill="#1B4F9C">
+        NIVESHI<tspan fill="#34C759">KA</tspan>
+  </text>
+
+</svg>

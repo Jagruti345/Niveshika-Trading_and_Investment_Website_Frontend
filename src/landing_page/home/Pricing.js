@@ -7,7 +7,7 @@ function Pricing() {
                 <div className='col-4'>
                     <h1 className='mb-3 fs-2'>Unbeatable pricing</h1>
                     <p className='fs-5'>We pionered the concept of sicount broking and price tranparency in India. Flat fees and no hidden charges.</p>
-                    <a href='' className='fs-5' style={{textDecoration : "none"}}>See pricing <i class="fa fa-long-arrow-right" aria-hidden="true" ></i></a>
+                    <a href='/' className='fs-5' style={{textDecoration : "none"}}>See pricing <i class="fa fa-long-arrow-right" aria-hidden="true" ></i></a>
                 </div>
                 <div className='col-2'></div>
                 <div className='col-6  mb-5'>

@@ -18,8 +18,8 @@ function Stats() {
                 <div className='col-6'>
                     <img src='media/images/ecosystem (1).png' style={{ width: "95%" }} />
                     <div className='text-center'>
-                        <a href='' className='mx-5 fs-5' style={{textDecoration : "none"}}>Explore our products <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-                        <a href='' className='fs-5' style={{textDecoration : "none"}}>Try Kite demo <i class="fa fa-long-arrow-right" aria-hidden="true" ></i></a>
+                        <a href='/' className='mx-5 fs-5' style={{textDecoration : "none"}}>Explore our products <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+                        <a href='/' className='fs-5' style={{textDecoration : "none"}}>Try Kite demo <i class="fa fa-long-arrow-right" aria-hidden="true" ></i></a>
                     </div>
                 </div>
             </div>

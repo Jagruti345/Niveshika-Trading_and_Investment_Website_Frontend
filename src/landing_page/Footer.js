@@ -12,28 +12,28 @@ function Footer() {
                 </div>
                 <div className='col'>
                     <p>Company</p>
-                    <a href='' className='text-muted' style={{textDecoration : "none",color:"black"}}>About</a><br />
-                    <a href='' className='text-muted' style={{textDecoration : "none",color:"black"}}>Product</a><br />
-                    <a href='' className='text-muted' style={{textDecoration : "none",color:"black"}}>Pricing</a><br />
-                    <a href='' className='text-muted' style={{textDecoration : "none",color:"black"}}>Referral programme</a><br />
-                    <a href=''className='text-muted' style={{textDecoration : "none",color:"black"}} >Careers</a><br />
-                    <a href='' className='text-muted' style={{textDecoration : "none",color:"black"}}>Niveshika.tech</a><br />
-                    <a href='' className='text-muted' style={{textDecoration : "none",color:"black"}}>Press & media</a><br />
-                    <a href='' className='text-muted' style={{textDecoration : "none",color:"black"}}>Niveshika cares(CSR)</a><br />
+                    <a href='/' className='text-muted' style={{textDecoration : "none",color:"black"}}>About</a><br />
+                    <a href='/' className='text-muted' style={{textDecoration : "none",color:"black"}}>Product</a><br />
+                    <a href='/' className='text-muted' style={{textDecoration : "none",color:"black"}}>Pricing</a><br />
+                    <a href='/' className='text-muted' style={{textDecoration : "none",color:"black"}}>Referral programme</a><br />
+                    <a href='/' className='text-muted' style={{textDecoration : "none",color:"black"}}>Careers</a><br />
+                    <a href='/' className='text-muted' style={{textDecoration : "none",color:"black"}}>Niveshika.tech</a><br />
+                    <a href='/' className='text-muted' style={{textDecoration : "none",color:"black"}}>Press & media</a><br />
+                    <a href='/' className='text-muted' style={{textDecoration : "none",color:"black"}}>Niveshika cares(CSR)</a><br />
                 </div>
                 <div className='col'>
                     <p>Support</p>
-                    <a href='' className='text-muted' style={{textDecoration : "none",color:"black"}}>Contact</a><br />
-                    <a href='' className='text-muted' style={{textDecoration : "none",color:"black"}}>Support portal</a><br />
-                    <a href='' className='text-muted' style={{textDecoration : "none",color:"black"}}>N-Connect blog</a><br />
-                    <a href='' className='text-muted' style={{textDecoration : "none",color:"black"}}>List of resources</a><br />
-                    <a href='' className='text-muted' style={{textDecoration : "none",color:"black"}}>Downloads & resources</a><br />
+                    <a href='/' className='text-muted' style={{textDecoration : "none",color:"black"}}>Contact</a><br />
+                    <a href='/' className='text-muted' style={{textDecoration : "none",color:"black"}}>Support portal</a><br />
+                    <a href='/' className='text-muted' style={{textDecoration : "none",color:"black"}}>N-Connect blog</a><br />
+                    <a href='/' className='text-muted' style={{textDecoration : "none",color:"black"}}>List of resources</a><br />
+                    <a href='/' className='text-muted' style={{textDecoration : "none",color:"black"}}>Downloads & resources</a><br />
                 </div>
                 <div className='col'>
                     <p>Account</p>
-                    <a href='' className='text-muted' style={{textDecoration : "none",color:"black"}}>Open an account</a><br />
-                    <a href='' className='text-muted' style={{textDecoration : "none",color:"black"}}>Fund transfer</a><br />
-                    <a href='' className='text-muted' style={{textDecoration : "none",color:"black"}}>60 day challenge</a><br />
+                    <a href='/' className='text-muted' style={{textDecoration : "none",color:"black"}}>Open an account</a><br />
+                    <a href='/' className='text-muted' style={{textDecoration : "none",color:"black"}}>Fund transfer</a><br />
+                    <a href='/' className='text-muted' style={{textDecoration : "none",color:"black"}}>60 day challenge</a><br />
                 </div>
             </div>
             <div className='mt-5 text-small text-muted'>
@@ -81,25 +81,25 @@ function Footer() {
           </div>
           <div className='row mx-5'>
             <div className='col'>
-                 <a href='' className='text-muted' style={{textDecoration : "none",color:"black"}}>NSE</a>
+                 <a href='/' className='text-muted' style={{textDecoration : "none",color:"black"}}>NSE</a>
             </div>
             <div className='col'>
-                 <a href='' className='text-muted' style={{textDecoration : "none",color:"black"}}>BSE</a>
+                 <a href='/' className='text-muted' style={{textDecoration : "none",color:"black"}}>BSE</a>
             </div>
             <div className='col'>
-                 <a href='' className='text-muted' style={{textDecoration : "none",color:"black"}}>MCX</a>
+                 <a href='/' className='text-muted' style={{textDecoration : "none",color:"black"}}>MCX</a>
             </div>
             <div className='col'>
-                 <a href='' className='text-muted' style={{textDecoration : "none",color:"black"}}>Terms & conditions</a>
+                 <a href='/' className='text-muted' style={{textDecoration : "none",color:"black"}}>Terms & conditions</a>
             </div>
             <div className='col'>
-                 <a href='' className='text-muted' style={{textDecoration : "none",color:"black"}}>Policies & procedures</a>
+                 <a href='/' className='text-muted' style={{textDecoration : "none",color:"black"}}>Policies & procedures</a>
             </div>
             <div className='col'>
-                 <a href='' className='text-muted' style={{textDecoration : "none",color:"black"}}>Privacy policy</a>
+                 <a href='/' className='text-muted' style={{textDecoration : "none",color:"black"}}>Privacy policy</a>
             </div>
             <div className='col'>
-                 <a href='' className='text-muted' style={{textDecoration : "none",color:"black"}}>Disclosure</a>
+                 <a href='/' className='text-muted' style={{textDecoration : "none",color:"black"}}>Disclosure</a>
             </div>
           </div>
         </div>
